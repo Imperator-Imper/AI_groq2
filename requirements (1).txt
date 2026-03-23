@@ -1,3 +1,0 @@
-aiogram<3.0
-groq
-gradio==5.16.0
